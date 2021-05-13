@@ -30,4 +30,5 @@ public class lab2
         // escreva seu código aqui
         return x + y;
     }
+    //teste lab2
 }
